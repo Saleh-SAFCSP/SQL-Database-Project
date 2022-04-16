@@ -23,12 +23,12 @@
 ###  3️⃣ Add the following constraints to the database table
 
 1. countries :
-  1.1. Add not null constraint to column " name "
-  1.2. Add unique constraint to column " continent_name " .
+  1. Add not null constraint to column " name "
+  2. Add unique constraint to column " continent_name " .
   
 2. users :
-  2.1. Add unique constraint to column " email "
-  2.2. Add check constraint to column " gender " between 'm' or 'f' .
+  1. Add unique constraint to column " email "
+  2. Add check constraint to column " gender " between 'm' or 'f' .
 
 Completing the remaining constraints for the other tables whatever is fit, is a bouns 
 
