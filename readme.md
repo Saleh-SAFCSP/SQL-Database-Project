@@ -8,7 +8,7 @@ Dtabase Diagram :
 
 [![Screen-Shot-2022-04-16-at-7-52-23-PM.png](https://i.postimg.cc/PrWdxW0J/Screen-Shot-2022-04-16-at-7-52-23-PM.png)](https://postimg.cc/562hKC4W)
 
-##  1️⃣ Create the above database as shown in the image with the following stpes : 
+###  1️⃣ Create the above database as shown in the image with the following stpes : 
 
 1. Create countries table 
 2. Create users table 
@@ -17,9 +17,9 @@ Dtabase Diagram :
 5. Create products table 
   
 
-##  2️⃣ Connect each table with related table when applicable 
+###  2️⃣ Connect each table with related table when applicable 
 
-##  3️⃣ Add the following constraints to the database table
+###  3️⃣ Add the following constraints to the database table
 
 1. countries :
   1.1. Add not null constraint to column " name "
