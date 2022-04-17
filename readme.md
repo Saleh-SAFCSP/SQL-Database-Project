@@ -4,7 +4,7 @@
 ### Complete the following steps to complete the project: 
 
 
-[![Screen-Shot-2022-04-17-at-11-54-34-AM.png](https://i.postimg.cc/N0SB5KZc/Screen-Shot-2022-04-17-at-11-54-34-AM.png)](https://postimg.cc/QBQRzdX4)
+[![123.png](https://i.postimg.cc/wvNyv8fw/123.png)](https://postimg.cc/G8ch7N1D)
 
 ###  1️⃣ Create the above database as shown in the image with the following steps : 
 1. Create database named " store ".
