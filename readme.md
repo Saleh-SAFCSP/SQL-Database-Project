@@ -4,14 +4,14 @@
 ### Complete the following steps to complete the project: 
 
 
-[![Screen-Shot-2022-04-16-at-7-52-23-PM.png](https://i.postimg.cc/PrWdxW0J/Screen-Shot-2022-04-16-at-7-52-23-PM.png)](https://postimg.cc/562hKC4W)
+[![Screen-Shot-2022-04-17-at-11-54-34-AM.png](https://i.postimg.cc/N0SB5KZc/Screen-Shot-2022-04-17-at-11-54-34-AM.png)](https://postimg.cc/QBQRzdX4)
 
 ###  1️⃣ Create the above database as shown in the image with the following steps : 
 1. Create database named " store ".
 2. Create table countries. 
 3. Create table users. 
 3. Create table order.
-4. Create table order_items. 
+4. Create table order_products. 
 5. Create table products. 
   
 
