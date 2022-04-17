@@ -10,7 +10,7 @@
 1. Create database named " store ".
 2. Create table countries. 
 3. Create table users. 
-3. Create table order.
+3. Create table orders.
 4. Create table order_products. 
 5. Create table products. 
   
@@ -20,8 +20,8 @@
 ###  3️⃣ Add the following constraints to each tables
 
 1. **countries**
-    1. Add not null constraint to column " name ".
-    2. Add unique constraint to column " continent_name ".
+    1. Add unique constraint to column " name ".
+    2. Add not null constraint to column " continent_name ".
   
 2. **users**
     1. Add unique constraint to column " email ".
@@ -31,10 +31,10 @@
     1. Add check constraint to column " status " between 'start' or 'finish'.
 
 4. **order_items**
-    1. Add default constraint to column " quantity " value 0.
+    1. Add default value to column " quantity " value 0.
 
 5. **products**
-    1. Add default constraint to column " price " value 0.
+    1. Add default value to column " price " value 0.
     2. Add not null constraint to column " name ".
     3. Add check constraint to column " status " between 'valid' or 'expired'.
 
@@ -44,7 +44,7 @@
 ### 4️⃣ Write the DML commands for the following instructions ( choose data randomly ) :
 1. Add new row to the countries table.
 2. Add new row to the users table.
-3. Add new row to the order table.
+3. Add new row to the orders table.
 4. Add new row to the products table.
 5. Add new row to the order_products table.
  
