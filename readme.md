@@ -45,8 +45,8 @@
 1. Add new row to the countries table.
 2. Add new row to the users table.
 3. Add new row to the order table.
-4. Add new row to the order_items table.
-5. Add new row to the products table.
+4. Add new row to the products table.
+5. Add new row to the order_products table.
  
 6. Update row from countries table.
 7. Delete row from products table.
