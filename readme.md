@@ -7,8 +7,7 @@
 [![Screen-Shot-2022-04-16-at-7-52-23-PM.png](https://i.postimg.cc/PrWdxW0J/Screen-Shot-2022-04-16-at-7-52-23-PM.png)](https://postimg.cc/562hKC4W)
 
 ###  1️⃣ Create the above database as shown in the image with the following steps : 
-
-1. Create database store.
+1. Create database named " store ".
 2. Create table countries. 
 3. Create table users. 
 3. Create table order.
@@ -16,9 +15,9 @@
 5. Create table products. 
   
 
-###  2️⃣ Connect each table with related table when applicable
+###  2️⃣ Connect tables using foreign keys when applicable
 
-###  3️⃣ Add the following constraints to the database table
+###  3️⃣ Add the following constraints to each tables
 
 1. **countries**
     1. Add not null constraint to column " name ".
@@ -42,8 +41,7 @@
 
 **Bouns : Add default datetime to created_at column which take the timestap when the row is created**
 
-### 4️⃣ Complete the following tasks using DML commands ( choose data randomly ) :
-
+### 4️⃣ Write the DML commands for the following instructions ( choose data randomly ) :
 1. Add new row to the countries table.
 2. Add new row to the users table.
 3. Add new row to the order table.
